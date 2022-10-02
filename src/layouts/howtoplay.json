@@ -1,0 +1,376 @@
+{
+  "b": 131,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "HowToPlay",
+  "name": "HowToPlay",
+  "r": 225,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": false,
+  "title": "",
+  "v": 212,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.6799999999999997,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "howtoplay",
+      "persistentUuid": "2efc45ac-f7e1-4377-93ed-c2ea17e3775a",
+      "width": 0,
+      "x": 520,
+      "y": 20,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "esc",
+      "persistentUuid": "98d094a6-43fb-4335-9133-71b8588b6042",
+      "width": 0,
+      "x": 14,
+      "y": 18,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 245.6999969482422,
+      "layer": "",
+      "name": "text1",
+      "persistentUuid": "4708c5e8-b9da-4c10-9b6f-414c654904a6",
+      "width": 1066,
+      "x": 117,
+      "y": 123,
+      "zOrder": 2000000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass1",
+      "persistentUuid": "f5a0f1f4-f6fe-48f0-aac0-9cb653548fe2",
+      "width": 200,
+      "x": 877,
+      "y": 502,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass3",
+      "persistentUuid": "c5880934-129c-495c-8bec-9427055c46dc",
+      "width": 200,
+      "x": -16,
+      "y": 48,
+      "zOrder": 5,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass2",
+      "persistentUuid": "0313efda-f630-4335-9762-53f93f48b301",
+      "width": 200,
+      "x": 698,
+      "y": 45,
+      "zOrder": 20000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass3",
+      "persistentUuid": "664460a2-47b2-45f5-b1b9-a7dc2f0cd709",
+      "width": 200,
+      "x": 1035,
+      "y": 291,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass1",
+      "persistentUuid": "eea490bb-b249-4457-be58-655b5bd474bb",
+      "width": 200,
+      "x": 1403,
+      "y": 407,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass4",
+      "persistentUuid": "f4a0cefb-6d20-4b66-ab4e-b608efffbe32",
+      "width": 200,
+      "x": 167,
+      "y": 479,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "bone",
+      "persistentUuid": "c72b8522-4db9-4107-9bf7-5ff41b819e83",
+      "width": 200,
+      "x": 507,
+      "y": 347,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "bone",
+      "persistentUuid": "b83eb0d9-bf8f-458c-81d9-1171d9b1bd88",
+      "width": 200,
+      "x": 1112,
+      "y": 11,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "skull",
+      "persistentUuid": "e93b44c2-a7f4-4cdf-807d-62da92f1d5d6",
+      "width": 200,
+      "x": 1085,
+      "y": 518,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "skull",
+      "persistentUuid": "da1325c7-0b4a-45f8-bcc7-09f9c4076e87",
+      "width": 200,
+      "x": 1105,
+      "y": 509.6666564941406,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "skull",
+      "persistentUuid": "320302e4-6963-41c9-ac91-2ae77bb85559",
+      "width": 200,
+      "x": 278,
+      "y": 189,
+      "zOrder": 1,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "name": "howtoplay",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "How To Play?",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "..\\assets\\newtxt\\newtxt.fnt",
+        "textureAtlasResourceName": "..\\assets\\newtxt\\newtxt.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "esc",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Press Tab to Go back",
+        "opacity": 255,
+        "scale": 0.8,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "..\\assets\\newtxt\\newtxt.fnt",
+        "textureAtlasResourceName": "..\\assets\\newtxt\\newtxt.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "text1",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "This is a game about a Good guy who lives in a tiled dimension while some bad guys trying to rob him who lives in another dimension. He saves himself by Dodging and destroying the bullets.\n\nThe controls are W A S D. All movements are grid based. You have to dodge the bullets, but the orb which revolves around you helps you destroy the projectiles. Every 10 Second a powerfull self guided bullet spawns and destroys all the bullets by itself.\n\nThis game is made for the Ludum Dare 51.",
+        "opacity": 255,
+        "scale": 0.7,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "..\\assets\\newtxt\\newtxt.fnt",
+        "textureAtlasResourceName": "..\\assets\\newtxt\\newtxt.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "KeyPressed"
+          },
+          "parameters": [
+            "",
+            "Tab"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"HomeScreen\"",
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 9825600,
+      "ambientLightColorG": 134217728,
+      "ambientLightColorR": 1885434455,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Flash",
+      "type": "Flash::Flash"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "PlatformerObject",
+      "type": "PlatformBehavior::PlatformerObjectBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "b": 131,
+  "disableInputWhenNotFocused": true,
+  "mangledName": "HomeScreen",
+  "name": "HomeScreen",
+  "r": 225,
+  "standardSortMethod": true,
+  "stopSoundsOnStartup": true,
+  "title": "",
+  "v": 212,
+  "uiSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.5599999999999997,
+    "windowMask": false
+  },
+  "objectsGroups": [],
+  "variables": [],
+  "instances": [
+    {
+      "angle": 354,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Guide2",
+      "persistentUuid": "8c1eedf1-a7ff-4e4f-9537-35da8ff0e9e7",
+      "width": 0,
+      "x": 42.07646560668945,
+      "y": -286.6576232910156,
+      "zOrder": 10000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 354,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "Guide23",
+      "persistentUuid": "2ebf68fd-a7d0-438a-8b63-234eb29abd41",
+      "width": 0,
+      "x": 185.5072784423828,
+      "y": -177.8624725341797,
+      "zOrder": 1000,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "player",
+      "persistentUuid": "3472833c-e3fb-4196-bc0f-dfcbe651649f",
+      "width": 200,
+      "x": 683,
+      "y": 167,
+      "zOrder": 9,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "enemy",
+      "persistentUuid": "ad0250d4-8b63-4476-8806-79ed33dd28d4",
+      "width": 200,
+      "x": 895,
+      "y": 259,
+      "zOrder": 10,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass1",
+      "persistentUuid": "e95d6a0c-4f99-4722-b668-a6725868d1df",
+      "width": 200,
+      "x": 66,
+      "y": 504,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass3",
+      "persistentUuid": "4c6c7746-8e10-4c72-8d16-c529634b7621",
+      "width": 200,
+      "x": 368,
+      "y": 362,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass2",
+      "persistentUuid": "587e5652-403f-44b0-be13-a893ff41a126",
+      "width": 200,
+      "x": 748,
+      "y": 478,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass4",
+      "persistentUuid": "a19b4d95-6a6d-4186-8a20-6293fb12d73a",
+      "width": 200,
+      "x": 1107,
+      "y": 380,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass1",
+      "persistentUuid": "ffe1a086-0b05-40b1-86ad-6c32c4cf7261",
+      "width": 200,
+      "x": 221,
+      "y": 66,
+      "zOrder": 11,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass2",
+      "persistentUuid": "11f5c24e-109f-4e50-97b6-22321d7262fc",
+      "width": 200,
+      "x": 938,
+      "y": -22,
+      "zOrder": 13,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass3",
+      "persistentUuid": "5dd10bc9-f9f9-4bfc-806d-266c75f526ac",
+      "width": 200,
+      "x": 1182,
+      "y": 92,
+      "zOrder": 12,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass4",
+      "persistentUuid": "baa152d6-b5fd-4db3-9a4e-6d3878565291",
+      "width": 200,
+      "x": 552,
+      "y": -72.5,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "grass4",
+      "persistentUuid": "8824f73f-2869-4d64-9670-f8bded1f6d0c",
+      "width": 200,
+      "x": -23,
+      "y": -20,
+      "zOrder": 14,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "play",
+      "persistentUuid": "1aef2c29-de6d-4390-819e-bb361a9cb846",
+      "width": 0,
+      "x": 118,
+      "y": 346,
+      "zOrder": 10001,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "credit",
+      "persistentUuid": "6e359fb1-574a-40e1-b972-5371fbeb7df4",
+      "width": 0,
+      "x": 113,
+      "y": 411,
+      "zOrder": 10002,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "",
+      "name": "htp",
+      "persistentUuid": "9dc1e40d-834e-4011-b62f-95d48abdf7e5",
+      "width": 0,
+      "x": 115,
+      "y": 471,
+      "zOrder": 10003,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "skull",
+      "persistentUuid": "13fb0a1c-7792-4896-849a-2e96a2296d22",
+      "width": 200,
+      "x": 393,
+      "y": 63,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": true,
+      "height": 200,
+      "layer": "",
+      "name": "bone",
+      "persistentUuid": "67a2e3d6-8bdd-4bdf-a980-8773a5095fcc",
+      "width": 200,
+      "x": 554,
+      "y": 388,
+      "zOrder": 2,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "objects": [
+    {
+      "assetStoreId": "",
+      "name": "enemy",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "animations": [
+        {
+          "name": "",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": false,
+                  "image": "..\\assets\\enemy.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "assetStoreId": "",
+      "name": "play",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Play",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "..\\assets\\newtxt\\newtxt.fnt",
+        "textureAtlasResourceName": "..\\assets\\newtxt\\newtxt.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "credit",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "Credit",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "..\\assets\\newtxt\\newtxt.fnt",
+        "textureAtlasResourceName": "..\\assets\\newtxt\\newtxt.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    },
+    {
+      "assetStoreId": "",
+      "name": "htp",
+      "tags": "",
+      "type": "BitmapText::BitmapTextObject",
+      "variables": [],
+      "effects": [],
+      "behaviors": [],
+      "content": {
+        "text": "How to play?",
+        "opacity": 255,
+        "scale": 1,
+        "fontSize": 20,
+        "tint": "255;255;255",
+        "bitmapFontResourceName": "..\\assets\\newtxt\\newtxt.fnt",
+        "textureAtlasResourceName": "..\\assets\\newtxt\\newtxt.png",
+        "align": "left",
+        "wordWrap": true
+      }
+    }
+  ],
+  "events": [
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "play",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "MouseButtonReleased"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"Main\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "SourisSurObjet"
+          },
+          "parameters": [
+            "htp",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "MouseButtonReleased"
+          },
+          "parameters": [
+            "",
+            "Left"
+          ]
+        },
+        {
+          "type": {
+            "value": "BuiltinCommonInstructions::Once"
+          },
+          "parameters": []
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Scene"
+          },
+          "parameters": [
+            "",
+            "\"HowToPlay\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.3"
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::AddObjectPositionYTween"
+          },
+          "parameters": [
+            "Guide2",
+            "Tween",
+            "\"\"",
+            "43",
+            "\"bouncePast\"",
+            "300",
+            ""
+          ]
+        },
+        {
+          "type": {
+            "value": "Wait"
+          },
+          "parameters": [
+            "0.3"
+          ]
+        },
+        {
+          "type": {
+            "value": "Tween::AddObjectPositionYTween"
+          },
+          "parameters": [
+            "Guide23",
+            "Tween",
+            "\"\"",
+            "150",
+            "\"bouncePast\"",
+            "300",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "type": "BuiltinCommonInstructions::Standard",
+      "conditions": [
+        {
+          "type": {
+            "value": "DepartScene"
+          },
+          "parameters": [
+            ""
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "type": {
+            "value": "PreloadMusic"
+          },
+          "parameters": [
+            "",
+            "..\\assets\\game music\\GameMusic.wav"
+          ]
+        }
+      ]
+    }
+  ],
+  "layers": [
+    {
+      "ambientLightColorB": 6741664,
+      "ambientLightColorG": 134217728,
+      "ambientLightColorR": 1885434455,
+      "followBaseLayerCamera": false,
+      "isLightingLayer": false,
+      "name": "",
+      "visibility": true,
+      "cameras": [
+        {
+          "defaultSize": true,
+          "defaultViewport": true,
+          "height": 0,
+          "viewportBottom": 1,
+          "viewportLeft": 0,
+          "viewportRight": 1,
+          "viewportTop": 0,
+          "width": 0
+        }
+      ],
+      "effects": []
+    }
+  ],
+  "behaviorsSharedData": [
+    {
+      "name": "Flash",
+      "type": "Flash::Flash"
+    },
+    {
+      "name": "Platform",
+      "type": "PlatformBehavior::PlatformBehavior"
+    },
+    {
+      "name": "PlatformerObject",
+      "type": "PlatformBehavior::PlatformerObjectBehavior"
+    },
+    {
+      "name": "Tween",
+      "type": "Tween::TweenBehavior"
+    }
+  ]
+}
